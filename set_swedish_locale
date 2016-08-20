@@ -1,5 +1,5 @@
 #!/bin/bash
-# Program to set locale on Ubuntu
+# Program to set swdish locale on Linux
 # Martin Häggström 150610
 
 export LANG=sv_SE.utf8
