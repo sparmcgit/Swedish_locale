@@ -3,8 +3,8 @@ Sets locale for swedish users
 
 Put this in ${HOME}/.bashrc
 
-export LANG=sv_SE.utf8
-export LANGUAGE=sv_SE.utf8
+export LANG=sv_SE.utf8\
+export LANGUAGE=sv_SE.utf8\
 export LC_CTYPE=sv_SE.utf8
 export LC_NUMERIC=sv_SE.utf8
 export LC_TIME=sv_SE.utf8
