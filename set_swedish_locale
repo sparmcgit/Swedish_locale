@@ -2,6 +2,9 @@
 # Program to set swdish locale on Linux
 # Martin Häggström 150610
 
+cat <<-EOF
+Put this in ${HOME}/.bashrc
+
 export LANG=sv_SE.utf8
 export LANGUAGE=sv_SE.utf8
 export LC_CTYPE=sv_SE.utf8
@@ -17,3 +20,4 @@ export LC_TELEPHONE=sv_SE.utf8
 export LC_MEASUREMENT=sv_SE.utf8
 export LC_IDENTIFICATION=sv_SE.utf8
 export LC_ALL=
+EOF
